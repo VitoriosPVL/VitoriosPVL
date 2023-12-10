@@ -1,4 +1,4 @@
-###    Hi there.  I'm Witalij 👋
+###     I'm Witalij 
 ### 🔭 I’m currently working in ITX 
 
 [![DevTools](https://img.shields.io/badge/DevTools-db3a2c?style=for-the-badge&logo=DEVTOOLS&logoColor=white)](https://github.com/aikagv/devtools)
@@ -15,7 +15,22 @@
 
 
 #### SOCIAL
-[![Linkedin](https://img.shields.io/badge/linkedin-0966c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/vitali-piatrovich-1451a5263/)
+[![Linkedin](https://img.shields.io/badge/linkedin-0966c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitali-piatrovich-1451a5263/)
+[![Telegram](https://img.shields.io/badge/Telegram-25a3e1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VitoriosPL)
+
+
+
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=irinaborodulina0311-github-username&style=flat-square&color=blue" alt=""/>
+ </div>
+ 
+ <div id="badges" align="center">
+ <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+ </div>
+ 
+ <div align="center">
+  <img src="https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy.gif" width="600" height="300"/>
+</div>
 
 
 
