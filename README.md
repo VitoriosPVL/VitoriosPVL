@@ -1,5 +1,8 @@
 ###     I'm Witalij 
-### 🔭 I’m currently working in ITX 
+###  About Me:
+- :seedling: Stress resistance and literacy, the ability to work in a team and communicate with people are my main soft-skills.
+- :zap: I believe that perfect people do not exist, but I can do my best to produce a quality product.
+
 
 [![DevTools](https://img.shields.io/badge/DevTools-db3a2c?style=for-the-badge&logo=DEVTOOLS&logoColor=white)](https://github.com/aikagv/devtools)
 [![Terminal](https://img.shields.io/badge/Terminal-00485B.svg?style=for-the-badge&logo=iterm2&logoColor=white)](https://github.com/aikagv/terminal)
