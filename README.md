@@ -30,6 +30,12 @@
  <div id="badges" align="center">
  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
  </div>
+
+
+
+
+
+ 
  
  <div align="center">
   <img src="https://media.giphy.com/media/l2R06WPHU4ae0H4LC/giphy.gif" width="600" height="300"/>
