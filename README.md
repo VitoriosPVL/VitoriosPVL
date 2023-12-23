@@ -6,11 +6,11 @@
 
 ![DevTools](https://img.shields.io/badge/DevTools-db3a2c?style=for-the-badge&logo=DEVTOOLS&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-00485B.svg?style=for-the-badge&logo=iterm2&logoColor=white)
-[![Git](https://img.shields.io/badge/git-e84e32.svg?style=for-the-badge&logo=git&logoColor=white)]
+![Git](https://img.shields.io/badge/git-e84e32.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VSC](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-0066b8?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-[![Postman](https://img.shields.io/badge/Postman-fe6c37.svg?style=for-the-badge&logo=postman&logoColor=white)]
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648c.svg?style=for-the-badge&logo=postgresql&logoColor=white)]
+![Postman](https://img.shields.io/badge/Postman-fe6c37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648c.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-e89313.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Redmine](https://img.shields.io/badge/Redmine-cf4637.svg?style=for-the-badge&logo=Redmine&logoColor=white)
